@@ -1,0 +1,26 @@
+{
+  "name": "popover",
+  "repo": "heatroom/popover",
+  "description": "Popover component built on top of Tip",
+  "version": "0.0.1",
+  "keywords": [
+    "toolpopover",
+    "popover",
+    "ui"
+  ],
+  "dependencies": {
+    "component/tip": "0.2.1",
+    "component/jquery": "*",
+    "component/inherit": "0.0.2"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "popover.css"
+  ]
+}
