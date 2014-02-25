@@ -9,7 +9,7 @@
     "ui"
   ],
   "dependencies": {
-    "component/tip": "0.2.1",
+    "heatroom/tip": "*",
     "component/jquery": "*",
     "component/inherit": "0.0.2"
   },
